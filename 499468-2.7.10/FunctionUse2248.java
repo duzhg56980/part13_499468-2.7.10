@@ -1,0 +1,6 @@
+import org.apache.dubbo.common.config.configcenter.AbstractDynamicConfigurationFactory;
+public class FunctionUse2248 {
+public void funcUse() {
+AbstractDynamicConfigurationFactory abstractdynamicconfigurationfactory = new AbstractDynamicConfigurationFactory();
+}
+}
